@@ -1,0 +1,22 @@
+exit
+compile
+help
+project
+run
+compile
+run
+eval
+run
+scalaVersion
+session save
+set ThisBuild / scalaVersion := "2.12.7"
+session save
+ThisBuild / organization := "dojoscala"
+help
+reload
+test
+~testQuick
+help
+reload
+console
+exit
